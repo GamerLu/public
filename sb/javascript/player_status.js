@@ -1,0 +1,1 @@
+hash_player_status={1:{id:1,description:55400,multiplier:.75,tip:"-25%"},2:{id:2,description:55401,multiplier:.9,tip:"-10%"},3:{id:3,description:55402,multiplier:1,tip:"\u4e0d\u8b8a"},4:{id:4,description:55403,multiplier:1.1,tip:"+10%"},5:{id:5,description:55404,multiplier:1.25,tip:"+25%"}};

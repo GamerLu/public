@@ -1,0 +1,1 @@
+hash_taiwan={10:{id:10,name:"\u9ad8\u96c4",level:49,need_power:1E4},20:{id:20,name:"\u53f0\u5357",level:52,need_power:25E3},30:{id:30,name:"\u6843\u5712",level:55,need_power:4E4},40:{id:40,name:"\u53f0\u5317",level:58,need_power:5E4}};

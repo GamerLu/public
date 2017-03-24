@@ -1,0 +1,1 @@
+hash_equip_skillchange={3:{id:3,grade1:1,grade2:2,grade3:3,grade4:4,grade5:5,grade6:6},4:{id:4,grade1:7,grade2:8,grade3:9,grade4:10,grade5:11,grade6:12},5:{id:5,grade1:13,grade2:14,grade3:15,grade4:16,grade5:17,grade6:18},6:{id:6,grade1:19,grade2:20,grade3:21,grade4:22,grade5:23,grade6:24}};

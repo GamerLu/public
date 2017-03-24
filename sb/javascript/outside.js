@@ -1,0 +1,1 @@
+hash_outside={1:{id:1,star_add:1,p_add:300,f_add:300,star_fix:.1},2:{id:2,star_add:3,p_add:300,f_add:300,star_fix:.1},3:{id:3,star_add:5,p_add:300,f_add:300,star_fix:.1},4:{id:4,star_add:8,p_add:500,f_add:500,star_fix:.1},5:{id:5,star_add:10,p_add:500,f_add:500,star_fix:.1},6:{id:6,star_add:13,p_add:500,f_add:500,star_fix:.1}};

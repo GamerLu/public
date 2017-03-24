@@ -1,0 +1,1 @@
+hash_potential_range={1:{id:1,rare:1,potential_min:1,potential_max:3},2:{id:2,rare:2,potential_min:1,potential_max:5},3:{id:3,rare:3,potential_min:3,potential_max:7},4:{id:4,rare:4,potential_min:5,potential_max:9},5:{id:5,rare:5,potential_min:7,potential_max:11},6:{id:6,rare:6,potential_min:9,potential_max:13}};

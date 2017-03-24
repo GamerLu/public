@@ -1,0 +1,2 @@
+hash_master_level={1:{id:1,rank:1,level_change:10},2:{id:2,rank:2,level_change:6},3:{id:3,rank:3,level_change:4},4:{id:4,rank:4,level_change:4},5:{id:5,rank:5,level_change:-10},6:{id:6,rank:6,level_change:-10},7:{id:7,rank:7,level_change:-10},8:{id:8,rank:8,level_change:-10},9:{id:9,rank:9,level_change:-30},10:{id:10,rank:10,level_change:-30},11:{id:11,rank:11,level_change:-30},12:{id:12,rank:12,level_change:-30},13:{id:13,rank:13,level_change:-30},14:{id:14,rank:14,level_change:-30},15:{id:15,rank:15,
+level_change:-30},16:{id:16,rank:16,level_change:-30}};

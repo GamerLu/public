@@ -1,0 +1,1 @@
+hash_japan_friend={1:{id:1,ladder:1,param:50,items_1:100251},2:{id:2,ladder:2,param:100,items_1:100252},3:{id:3,ladder:3,param:160,items_1:100253},4:{id:4,ladder:4,param:230,items_1:100254},5:{id:5,ladder:5,param:310,items_1:100255},6:{id:6,ladder:6,param:400,items_1:100256}};

@@ -1,0 +1,1 @@
+hash_doorwar_home={1:{id:1,blood:5E3,revive:0,gift2_id:8503,gift3_id:8502,gift4_id:8501},2:{id:2,blood:1E4,revive:0,gift2_id:8503,gift3_id:8502,gift4_id:8501},3:{id:3,blood:2E4,revive:1,gift2_id:8503,gift3_id:8502,gift4_id:8501}};

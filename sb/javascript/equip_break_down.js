@@ -1,0 +1,2 @@
+hash_equip_break_down={1:{id:1,eq_element1:2},2:{id:2,eq_element1:2},3:{id:3,eq_element1:2},4:{id:4,eq_element1:2},5:{id:5,eq_element1:2},6:{id:6,eq_element1:10,eq_element4:2},11:{id:11,eq_element2:2},12:{id:12,eq_element2:2},13:{id:13,eq_element2:2},14:{id:14,eq_element2:2},15:{id:15,eq_element2:2},16:{id:16,eq_element2:10,eq_element4:4},21:{id:21,eq_element3:2},22:{id:22,eq_element3:2},23:{id:23,eq_element3:2},24:{id:24,eq_element3:2},25:{id:25,eq_element3:2},26:{id:26,eq_element3:10,eq_element4:10},
+36:{id:36,eq_element1:10,eq_element2:10,eq_element3:10,eq_element4:10}};

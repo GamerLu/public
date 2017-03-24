@@ -1,0 +1,1 @@
+hash_duelarena_bet_reward={1:{id:1,ladder:1,rank_min:1,rank_max:1,items_1:1851},2:{id:2,ladder:2,rank_min:2,rank_max:2,items_1:1852},3:{id:3,ladder:3,rank_min:3,rank_max:4,items_1:1853},4:{id:4,ladder:4,rank_min:5,rank_max:8,items_1:1854},5:{id:5,ladder:5,rank_min:9,rank_max:16,items_1:1855}};
