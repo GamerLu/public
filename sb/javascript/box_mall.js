@@ -1,1 +1,1 @@
-hash_box_mall={154:{id:154,name:3331,MB_price:4,launch:1,shelves:2017072711,limit:1,currency_1:1,items:154,str_id:2331,pic:"ads_433.jpg"}};
+hash_box_mall={155:{id:155,name:3332,MB_price:4,launch:1,shelves:2017080311,limit:1,currency_1:1,items:155,str_id:2332,pic:"ads_434.jpg"}};
