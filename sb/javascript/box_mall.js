@@ -1,1 +1,1 @@
-hash_box_mall={160:{id:160,name:3339,MB_price:4,launch:1,shelves:2017090711,limit:1,currency_1:1,items:160,str_id:2339,pic:"ads_439.jpg"},10011:{id:10011,name:3739,launch:1,shelves:2017090711,limit:1,currency_1:1,money_1:29,money_ten_1:290,currency_2:45,money_2:10,money_ten_2:100,items:10011,str_id:2739,pic:"ads_737.jpg"}};
+hash_box_mall={161:{id:161,name:3304,MB_price:4,launch:1,shelves:2017091411,limit:1,currency_1:1,items:161,str_id:2304,pic:"ads_304.jpg"}};
