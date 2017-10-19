@@ -1,1 +1,1 @@
-hash_optional_fixed={1:{id:1,value:100},2:{id:2,value:39},3:{id:3,value:100},4:{id:4,value:100},5:{id:5,value:4223},6:{id:6,value:721},7:{id:7,value:2724},8:{id:8,value:1},9:{id:9,value:0},101:{id:101,value:76},102:{id:102,value:20}};
+hash_optional_fixed={1:{id:1,value:100},2:{id:2,value:39},3:{id:3,value:150},4:{id:4,value:100},5:{id:5,value:4223},6:{id:6,value:721},7:{id:7,value:2724},8:{id:8,value:1},9:{id:9,value:0},101:{id:101,value:76},102:{id:102,value:20}};
