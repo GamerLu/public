@@ -4544,14 +4544,14 @@
         "final_stat1": "strength",
         "descpriority": "67",
         "descstrpos": "ModStr1a",
-        "fix_descstrpos": "",
-        "final_descstrpos": "ModStr1a",
-        "patchstring": "#N/A",
+        "fix_descstrpos": "Moditem2allattrib",
+        "final_descstrpos": "Moditem2allattrib",
+        "patchstring": "\u8f49\u70ba\u6240\u6709\u7684\u5c6c\u6027",
         "expansionstring": "#N/A",
-        "string": "\u529b\u91cf",
-        "string_combine": "\u529b\u91cf",
-        "fix_tbl": "\u529b\u91cf",
-        "final_tbl": "\u529b\u91cf"
+        "string": "#N/A",
+        "string_combine": "\u8f49\u70ba\u6240\u6709\u7684\u5c6c\u6027",
+        "fix_tbl": "\u8f49\u70ba\u6240\u6709\u7684\u5c6c\u6027",
+        "final_tbl": "\u8f49\u70ba\u6240\u6709\u7684\u5c6c\u6027"
     },
     "addxp": {
         "code": "addxp",
@@ -14095,7 +14095,7 @@
     },
     "Runeword1": {
         "code": "Runeword1",
-        "\u8aaa\u660e": "",
+        "\u8aaa\u660e": "\u7b26\u6587\u7d44\u540d\u7a31",
         "stat1": "",
         "desc": "",
         "fix_stat1": "",
@@ -17137,7 +17137,7 @@
     },
     "Skeleton": {
         "code": "Skeleton",
-        "\u8aaa\u660e": "",
+        "\u8aaa\u660e": "\u602a\u7269",
         "stat1": "",
         "desc": "",
         "fix_stat1": "",
